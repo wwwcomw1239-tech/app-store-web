@@ -194,3 +194,39 @@ Use 'kill 343' to stop it.
  GET / 200 in 102ms (compile: 49ms, render: 52ms)
 ⚠ Cross origin request detected from preview-chat-27f135ce-7a8c-4ac2-86d8-cbf3b59609ce.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 243ms (compile: 4ms, render: 239ms)
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 108ms (compile: 4ms, render: 104ms)
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 93ms (compile: 4ms, render: 89ms)
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 77ms (compile: 4ms, render: 73ms)
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 101ms (compile: 6ms, render: 94ms)
+⨯ Error: Invalid src prop (https://api.dicebear.com/7.x/shapes/svg?seed=whatsapp&backgroundColor=25D366) on `next/image`, hostname "api.dicebear.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
+    at ignore-listed frames {
+  digest: '2982781025@E231'
+}
+ GET / 500 in 62ms (compile: 2ms, render: 60ms)
